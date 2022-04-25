@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CE340 Project.iml" filepath="$PROJECT_DIR$/CE340 Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Feistel-Ciphering.iml" filepath="$PROJECT_DIR$/Feistel-Ciphering.iml" />
     </modules>
   </component>
 </project>
